@@ -7,3 +7,5 @@ In this project, I delved into a rich dataset of NASA patents, examining columns
 •	Applied statistical methods to ensure accurate and meaningful insights.
 
 ●	Analyzed NASA patent data, revealing that 35.5% of patents are pending issuance.
+
+●	Identified NASA Langley Research Centre as the top contributor, accounting for 30% of total patents.
