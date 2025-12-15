@@ -1,7 +1,7 @@
 # NASA_PatentData_Analysis Project 
 ## App:
-https://nasapatentapp-uvv4j8yokjttrpgyrzx6hk.streamlit.app/
 
+https://nasa-project-app1.streamlit.app/
 ## Summary :
 In this personal project, I explored a rich dataset of NASA patents, analyzing key
 attributes like Application SN, Case Number, Patent Expiration Date, Patent Number, 
