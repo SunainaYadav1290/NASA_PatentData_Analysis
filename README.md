@@ -3,7 +3,7 @@ The NASA Patent Analytics Dashboard is an interactive Streamlit application desi
 It provides insights into patent distribution, status, and expiry details, along with a quick Patent Expiry Lookup feature for individual case numbers.
 
 ## Live Application
- Deployed on Streamlit:
+ Deployed on Streamlit:https://nasa-app.streamlit.app/
 ## Key Features
 
 # Patent Overview Analytics
