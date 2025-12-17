@@ -4,6 +4,7 @@ It provides insights into patent distribution, status, and expiry details, along
 
 ## Live Application
  Deployed on Streamlit:https://nasa-app.streamlit.app/
+
 ## Key Features
 
 # Patent Overview Analytics
