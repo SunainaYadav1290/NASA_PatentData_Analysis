@@ -1,19 +1,46 @@
 # NASA_PatentData_Analysis Project 
-## App:
-https://nasa-app.streamlit.app/
-## Summary :
-In this personal project, I explored a rich dataset of NASA patents, analyzing key
-attributes like Application SN, Case Number, Patent Expiration Date, Patent Number, 
-Status, and Title. My objective was to investigate trends and patterns that could shed 
-light on NASA’s innovation landscape, giving a glimpse into their areas of technological 
-advancement. 
-Without a specific hypothesis, I conducted an open-ended analysis, aiming to 
-extract as much knowledge as possible from the data. This approach enabled me to identify
-areas where NASA’s innovations have evolved over time .
+The NASA Patent Analytics Dashboard is an interactive Streamlit application designed to analyze and explore NASA patent data.
+It provides insights into patent distribution, status, and expiry details, along with a quick Patent Expiry Lookup feature for individual case numbers.
 
-# 1.Collected Patents Data from NASA website using API.
-# 2.Analyzed the different columns in the data . Prepared data for analysis by removing NAN values and duplicate rows.
-# 3.Categorized the different patents into 14 different categories.
-# 4.Plotted a bar chart to find the most common patent categories.
-# 5.Created a Word cloud of the most common words on the Patent_Category column to find the most commonly patented technologies.
-# 6.Analyzing NASA Center and their status to understand which centers are producing more successful patents.
+## Live Application
+ Deployed on Streamlit:
+## Key Features
+
+# Patent Overview Analytics
+
+ *Distribution of patents across NASA centers
+
+ *Patent status insights (Issued, Pending, Expired, etc.)
+
+ *Patent Expiry Lookup
+
+ *Search patents using Case Number
+
+ *Instantly view expiry information
+
+## Dataset
+
+The dataset contains NASA patent information with columns such as:
+
+Case Number
+
+Patent Number
+
+NASA Center
+
+Status
+
+Patent Expiration Date
+
+Title
+
+(Dataset used for educational and analytical purposes.)
+
+
+
+Author
+
+Sunaina Yadav
+Data Analyst | SQL | Python | Power BI | Tableau
+
+https://sunainayadav1290.github.io/Portfolio/
