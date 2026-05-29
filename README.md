@@ -42,6 +42,6 @@ Title
 Author
 
 Sunaina Yadav
-Data Analyst | SQL | Python | Power BI | Tableau
+
 
 https://sunainayadav1290.github.io/Portfolio/
